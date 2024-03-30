@@ -1,0 +1,9 @@
+module.exports = {
+    SL_CREATED: 'SUCCESS_SELLER_001',
+    SL_UPDATED: 'SUCCESS_SELLER_002',
+    SL_DELETED: 'SUCCESS_SELLER_003',
+    SL_FETCHED: 'SUCCESS_SELLER_004',
+    SL_PASSWORD_RESET: 'SUCCESS_SELLER_005',
+    SL_LOGGED_IN: 'SUCCESS_SELLER_006'
+    // ... autres codes d'erreur liés aux utilisateurs
+};
